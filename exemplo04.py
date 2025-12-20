@@ -5,7 +5,6 @@ tarefa 01 - strings
 '''
 
 texto = input("digite seu texto com espaços: ")
-print(texto.split())
 
 texto_modificado = texto.replace(" ", "")
 
